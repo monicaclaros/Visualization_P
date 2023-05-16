@@ -23,7 +23,7 @@ El PIB mide la actividad económica de un país durante un período de tiempo de
 4. Es importante considerar otros factores como la población, el poder adquisitivo y las políticas económicas para comprender plenamente los datos del PIB y su contexto económico más amplio.
 
 ##En TABLEAU
-En esta herramienta, examinaremos el PIB de los países sudamericanos y su comparación con otros indicadores económicos y sociales. Ajustaremos los datos del PIB para considerar el tamaño de la población y obtener una imagen más precisa de la fortaleza económica relativa de cada país. Además del PIB, analizaremos indicadores como el Índice de Salud, el CI, el GPI y el IPC para comprender el bienestar general y la situación económica y social de cada país sudamericano.
+En esta herramienta, examinaremos el PIB de los países sudamericanos del Abya Yala y su comparación con otros indicadores económicos y sociales. Ajustaremos los datos del PIB para considerar el tamaño de la población y obtener una imagen más precisa de la fortaleza económica relativa de cada país. Además del PIB, analizaremos indicadores como el Índice de Salud, el CI, el GPI y el IPC para comprender el bienestar general y la situación económica y social de cada país sudamericano.
 ```
 
 #### 4. Lista con los pasos realizados
