@@ -22,7 +22,7 @@ El PIB mide la actividad económica de un país durante un período de tiempo de
 3. El código proporcionará información sobre los valores faltantes y mostrará un gráfico de cajas para visualizar la distribución del PIB.
 4. Es importante considerar otros factores como la población, el poder adquisitivo y las políticas económicas para comprender plenamente los datos del PIB y su contexto económico más amplio.
 
-##En POWER BI
+##En TABLEAU
 En esta herramienta, examinaremos el PIB de los países sudamericanos y su comparación con otros indicadores económicos y sociales. Ajustaremos los datos del PIB para considerar el tamaño de la población y obtener una imagen más precisa de la fortaleza económica relativa de cada país. Además del PIB, analizaremos indicadores como el Índice de Salud, el CI, el GPI y el IPC para comprender el bienestar general y la situación económica y social de cada país sudamericano.
 ```
 
@@ -45,10 +45,13 @@ escaleta()
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
 
-![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%202.14.42.png)
-![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%202.15.01.png)
-![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%202.15.11.png)
-![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%202.15.30.png)
+https://public.tableau.com/views/Visualizacion_P5/DashboardpibenAbyayala?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
+![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%2010.11.40.png)
+![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%2010.11.54.png)
+![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%2010.12.07.png)
+![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%2010.12.26.png)
+![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%2010.12.44.png)
 
 <<<<<<< HEAD
 Visualización del proyecto de ETL sobre PIB América del Sur.
