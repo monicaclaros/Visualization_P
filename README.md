@@ -9,6 +9,7 @@ Visualización del proyecto de ETL sobre migracion
 #### 1. Equipo Desarrollo 
 
 | Developer | Rol | Fecha | Proyecto | Versión |
+
 | Monica C | Jr| 15/05/2023 | 5  |  2 |
 
 
