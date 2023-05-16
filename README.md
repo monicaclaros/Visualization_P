@@ -1,69 +1,56 @@
 <<<<<<< HEAD
-# Visualization_P
-=======
+
 # Visualization_P5
 Visualización del proyecto de ETL sobre migracion
 ![banerGit](https://user-images.githubusercontent.com/16636086/106938115-ded34680-671e-11eb-8de4-35fd6d00868a.png)
 
-# Título de Proyecto
+
 
 #### 1. Equipo Desarrollo 
 
-| Developer | Rama | Rol | Fecha Incorporación | Proyecto | Versión |
-| --- | :---:  | :---:  | :---:  | :---: | :---:  |
-| Jose Marín | Master / Dev1 | Project Manager | 01/01/2021 |   |   |
-| Edurne Camarena | Dev 2 | Backend Developer| 01/01/2021 |   |   |
-| Mayte Oses | Dev 3 | Frontend Developer| 01-01-2021 |   |   |
+| Developer | Rol | Fecha | Proyecto | Versión |
+| Monica C | Jr| 15/05/2023 | 5  |  2 |
+
 
 #### 2. Description
 ```
-Descripción simple y corta del contexto de tu proyecto.
+El PIB mide la actividad económica de un país durante un período de tiempo determinado. Un PIB más alto indica una economía más fuerte y mayores ingresos para la población. Sin embargo, no refleja la distribución de la riqueza ni el bienestar social. Otros indicadores, como el IDH o el IPM, deben usarse junto con el PIB para obtener una imagen más completa del progreso económico y social de un país. El PIB no siempre es el mejor indicador del bienestar de los ciudadanos, ya que no tiene en cuenta la distribución de la renta ni el acceso a oportunidades. En resumen, el PIB es un indicador valioso pero incompleto del progreso económico y social de un país.
+
+##En python
+1. Se calcula si los países superan la media continental del PIB. 
+2. Se analizan los datos del PIB de los países que pertenecen al ABYA YALA en busca de valores faltantes y atípicos.
+3. El código proporcionará información sobre los valores faltantes y mostrará un gráfico de cajas para visualizar la distribución del PIB.
+4. Es importante considerar otros factores como la población, el poder adquisitivo y las políticas económicas para comprender plenamente los datos del PIB y su contexto económico más amplio.
+
+##En POWER BI
+En esta herramienta, examinaremos el PIB de los países sudamericanos y su comparación con otros indicadores económicos y sociales. Ajustaremos los datos del PIB para considerar el tamaño de la población y obtener una imagen más precisa de la fortaleza económica relativa de cada país. Además del PIB, analizaremos indicadores como el Índice de Salud, el CI, el GPI y el IPC para comprender el bienestar general y la situación económica y social de cada país sudamericano.
 ```
 
-#### 3. Link a un demo con el proyecto desplegado: https://github.com/
+#### 4. Lista con los pasos realizados
 
-```
-* Nombre de la App: [GITTT] (https://github.com/)
-```
-#### 4. Lista con los pasos mínimos que se necesitan para clonar exitosamente el proyecto y echarlo a andar en local.
+escaleta()
+    #1.Importar Librerías
+    #2. Read the datasets
+    #3. Cambiar encabezado
+    #4. Select países de ABYA YALA (América del Sur)
+    #5. verificar nulos
+    #6. buscar outliers  o dispersión con box plot de columnas
+    #7. Eliminar quartiles fuera de rango como outlier
+    #8. Limpieza de nulos
+    #9. Elegir el Año 2022, info completa
+    #10. Cálculo del PIB total 2022
+    #11. Se divide el PIB de cada país con el total del grupo en el  2022
+    #12. Exportar a .csv
 
-###### Install
-```
-typescript    https://www.typescriptlang.org/
-Jest Runner   https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner
-vscode-icons  https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
-ts-jest       https://github.com/kulshekhar/ts-jest 
-```
-###### Command line 
-```
-npm install -g typescript
-npm install --save-dev jest
-npm i @types/jest
-
-Prerequisites       npm i -D jest typescript	
-Installing          npm i -D ts-jest @types/jest	
-Creating config     npx ts-jest config:init	
-
-Compile all         tsc
-Compile file        tsc '{path}/foo.ts'
-Run file            npx node '{path}/foo.ts'
-Compile/Run (fly)   npx ts-node '{path}/foo.ts'
-Running tests       npx jest	
-```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
 
-![image](https://user-images.githubusercontent.com/16636086/106936120-7aaf8300-671c-11eb-9ed2-79fe80608f50.png)
->>>>>>> f582e779124f56e4d3c0c671948fe9009f133e98
-
-
-
-
+![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%202.14.42.png)
+![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%202.15.01.png)
+![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%202.15.11.png)
+![image](https://github.com/monicaclaros/Visualization_P/blob/main/images/Captura%20de%20pantalla%202023-05-16%20a%20la(s)%202.15.30.png)
 
 <<<<<<< HEAD
-Visualización del proyecto de ETL sobre migracion.
+Visualización del proyecto de ETL sobre PIB América del Sur.
 
-Para este proyecto 
-=======
 
->>>>>>> f582e779124f56e4d3c0c671948fe9009f133e98
